@@ -82,3 +82,5 @@ docker run --rm -p 8080:8080 \
 
 # open http://localhost:8080/setup (password: test)
 ```
+
+Updated: 2026-03-31
